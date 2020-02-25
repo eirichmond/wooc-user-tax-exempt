@@ -1,5 +1,4 @@
 # WooCommerce User Tax Exempt setting for Administrators
-* Contributors: Elliott Richmond
 
 ## Description
 This is a simple WordPress plugin to exdent WooCommerce, it simply addes a setting to a user profile, that will enable/disable the user from paying added tax when they purchase from a WooCommerce store.
